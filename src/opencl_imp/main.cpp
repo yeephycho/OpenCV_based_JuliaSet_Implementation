@@ -10,8 +10,8 @@ using namespace cv;
 
 //*********************** intrinic opencl segment **********************************
 #define PROGRAM_FILE "cl_Julia.cl"   // input your kernel file name
-#define DIM 40000
-#define IMAGENAME "C:\\Users\\huyix\\Desktop\\juliaOpenCL.jpg"
+#define DIM 20000
+#define IMAGENAME "C:\\Users\\huyix\\Desktop\\OpenCLJulia.jpg"
 
 /* Find a GPU and the first available platform */
 cl_device_id create_device() {
