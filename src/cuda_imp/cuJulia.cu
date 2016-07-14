@@ -63,8 +63,7 @@ int main(void)
 	err = cudaFree(dev_cuImage);
 
 	printf("finished, press any key to exit ...\n");
-	imwrite("C:\\Users\\huyix\\Desktop\\juliaCuda.jpg", cuImage);
-	getchar();
-
+	imwrite("C:\\Users\\huyix\\Desktop\\cudaJulia.jpg", cuImage);
+	
     return 0;
 }
