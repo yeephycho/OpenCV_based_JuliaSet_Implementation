@@ -56,7 +56,7 @@ int main(void){
 		}
 	}
 	printf("Complete! Press any key to exit ...\n");
-	imwrite("C:\\Users\\huyix\\Desktop\\julia2.jpg", mImage);
+	imwrite("C:\\Users\\huyix\\Desktop\\ompJulia.jpg", mImage);
 
 	getchar();
 	return 0;
