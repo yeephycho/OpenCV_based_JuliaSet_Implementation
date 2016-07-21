@@ -15,7 +15,7 @@ Part 1</br>
 ![julia_part1](https://github.com/yeephycho/OpenCV_based_JuliaSet_Implementation/raw/master/result/display_part.JPG)
 
 Part 2</br>
-
+![julia_part1](https://github.com/yeephycho/OpenCV_based_JuliaSet_Implementation/raw/master/result/display_part2.JPG)
 
 Part 3</br>
 
